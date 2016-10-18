@@ -17,3 +17,6 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Yarn files
+yarn-error.log
